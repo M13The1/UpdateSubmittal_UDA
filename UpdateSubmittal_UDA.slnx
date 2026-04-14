@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="UpdateSubmittal_UDA/UpdateSubmittal_UDA.csproj" Id="b585f28b-76db-4321-8622-6613608eda7f">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
